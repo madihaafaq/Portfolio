@@ -328,7 +328,7 @@ header nav a{
     }
     #skill .list .item:nth-child(2),
     #skill .list .item:nth-child(3n){
-        background: #3F2525;
+        background: #E78895;
     }
     #project .list{
         padding: 10px;
